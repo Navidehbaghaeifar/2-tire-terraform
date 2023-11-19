@@ -1,0 +1,1 @@
+{"mime":"application/octet-stream","filter":false,"title":"variables.tf","tooltip":"/modules/network_flow/variables.tf","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1700255907839,"hash":"a00223f25bef0fc8b321fc470abf79b888ffd08b"}

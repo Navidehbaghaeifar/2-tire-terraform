@@ -50,7 +50,7 @@ variable "lt_asg_instance_type" {
 variable "lt_asg_key" {
   type        = string
   description = "Key Pair"
-  default     = "levelupkeypair"
+  default     = "keypairnew"
 }
 
 variable "asg_sg_id" {}

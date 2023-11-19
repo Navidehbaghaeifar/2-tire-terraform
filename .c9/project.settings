@@ -5,7 +5,8 @@
         "@editor.acceptSuggestionOnEnter": "on",
         "@editor.snippetSuggestions": "top",
         "@editor.suggest.preview": true,
-        "@editor.suggest.showMethods": true
+        "@editor.suggest.showMethods": true,
+        "@git.confirmSync": false
     },
     "language": {
         "tern_defs": {
@@ -36,5 +37,13 @@
     },
     "welcome": {
         "@first": true
+    },
+    "workspace": {
+        "@folders": [
+            {
+                "name": "Terraform-2-tier-architecture",
+                "path": "/Terraform-2-tier-architecture"
+            }
+        ]
     }
 }
